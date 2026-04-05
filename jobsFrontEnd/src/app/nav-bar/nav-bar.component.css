@@ -1,0 +1,12 @@
+#mainNavBar ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    font-size: x-large;
+}
+
+#mainNavBar {
+    background-color: rgb(228, 228, 228);
+    width: 100%;
+    padding-bottom: 10px;
+}
